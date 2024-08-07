@@ -12,8 +12,8 @@ This is a take home assignment given to me by LearnlyApp Edtech. The assignment 
 
 ## Screenshots
 
-![Screenshot 1](images/Screenshot 2024-08-07 222413.png)
-![Screenshot 1](images/Screenshot 2024-08-07 222903.png)
-![Screenshot 1](images/Screenshot 2024-08-07 223359.png)
-![Screenshot 1](images/Screenshot 2024-08-07 223708.png)
-![Screenshot 1](images/Screenshot 2024-08-07 223720.png)
+![Screenshot 1](images/Screenshot1.png)
+![Screenshot 2](images/Screenshot2.png)
+![Screenshot 3](images/Screenshot3.png)
+![Screenshot 4](images/Screenshot4.png)
+![Screenshot 5](images/Screenshot5.png)
