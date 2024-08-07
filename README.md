@@ -1,29 +1,13 @@
-# ecom
+# The Ecom App
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a take home assignment given to me by LearnlyApp Edtech. The assignment was to build a simple e-commerce product listing application.
 
-## Recommended IDE Setup
+(See it live here.)[google.com]
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Technologies Used
 
-## Customize configuration
+- Frontend: Vue.js (Composition API), Vue Router, Vuex, Tailwind CSS, Axios
+- Backend: Node.js, Express, JWT (JSON Web Tokens)
+- Database: MongoDB with Mongoose
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Screenshots
