@@ -1,18 +1,12 @@
-<script setup>
-import { useToast } from "vue-toastification";
-import { onMounted } from "vue";
-
-onMounted(() => {
-  const toast = useToast();
-
-  toast("I am a toast");
-
-  toast.success("My toast content", {
-    timeout: 2000,
-  });
-});
-</script>
-
 <template>
-  <h1 class="text-3xl">Hello World!</h1>
+  <div>
+    <NavBar />
+    <router-view></router-view>
+    <Footer />
+  </div>
 </template>
+
+<script setup>
+import NavBar from "@/components/Navbar.vue";
+import Footer from "@/components/Footer.vue";
+</script>
